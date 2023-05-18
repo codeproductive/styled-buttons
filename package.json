@@ -1,10 +1,11 @@
 {
   "name": "@codeproductive/styled-buttons",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A customizable and themeable button component for React with dynamic styles based on different variations such as primary, secondary, success, warning, and danger.",
   "main": "src/index.ts",
   "files": [
-    "src/*/**"
+    "src",
+    "README.md"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +26,12 @@
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.2",
     "@types/react": "^18.2.6"
+  },
+  "bugs": {
+    "url": "https://github.com/codeproductive/styled-buttons/issues"
+  },
+  "homepage": "https://github.com/codeproductive/styled-buttons",
+  "publishConfig": {
+    "access": "public"
   }
 }
