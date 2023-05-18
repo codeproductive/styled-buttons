@@ -7,8 +7,8 @@ A customizable button component for React that supports different styles and typ
 ## Installation
 
 ```bash
-npm install @ui-react/styled-buttons
-yarn add @ui-react/styled-buttons
+npm install @codeproductive/styled-buttons
+yarn add @codeproductive/styled-buttons
 ```
 
 ## Usage
