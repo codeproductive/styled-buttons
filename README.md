@@ -3,6 +3,7 @@
 # Styled Button Component for React
 
 A customizable button component for React that supports different styles and types.
+![image](https://github.com/codeproductive/styled-buttons/styled-buttons.png)
 
 ## Installation
 
